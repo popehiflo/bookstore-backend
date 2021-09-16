@@ -1,4 +1,4 @@
-#  BootStore : Fullstack application 📚
+#  BookStore : Fullstack application 📚
 **Proyecto Web Fullstack**   
 `H2`, `JPA`, `Hibernate`, `Spring Boot`, `TypeScript`, `Angular`.  
 ## Repositorio del backend [bookstore-backend](https://github.com/popehiflo/bookstore-backend) 👈
