@@ -2,7 +2,7 @@
 **Proyecto Web Fullstack**   
 `H2`, `JPA`, `Hibernate`, `Spring Boot`, `TypeScript`, `Angular`.  
 ## Repositorio del backend [bookstore-backend](https://github.com/popehiflo/bookstore-backend) 👈
-## Repositorio del backend [bookstore-backend](https://github.com/popehiflo/bookstore-backend)
+## Repositorio del frontend [bookstore-frontend](https://github.com/popehiflo/bookstore-frontend)
 
 ## Backend Java construido con 🛠️
 * [H2]() - Sistema administrador de BDs relacionales hecho con Java para entornos dev
